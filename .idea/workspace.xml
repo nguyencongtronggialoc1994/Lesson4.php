@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="068a9405-6893-4eac-bdd3-cee8f9c59db9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/loc_danh_sach" />
+  </component>
+  <component name="ProjectId" id="1iaNImYpAZW3DBOF6DmvDqSxdsw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="068a9405-6893-4eac-bdd3-cee8f9c59db9" name="Default Changelist" comment="" />
+      <created>1602141665295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602141665295</updated>
+      <workItem from="1602141666354" duration="4102000" />
+      <workItem from="1602148232613" duration="738000" />
+      <workItem from="1602151655285" duration="15980000" />
+      <workItem from="1602214874519" duration="1796000" />
+      <workItem from="1602216741459" duration="1803000" />
+      <workItem from="1602225219568" duration="947000" />
+      <workItem from="1602226817306" duration="34000" />
+      <workItem from="1602227333169" duration="842000" />
+      <workItem from="1602228530920" duration="66000" />
+      <workItem from="1602229022295" duration="35000" />
+      <workItem from="1602229114963" duration="65000" />
+      <workItem from="1602230169776" duration="553000" />
+      <workItem from="1602290312913" duration="657000" />
+      <workItem from="1602311681317" duration="192000" />
+      <workItem from="1602312588015" duration="343000" />
+      <workItem from="1602318354962" duration="388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="621" y="235" width="732" height="644" key="#Inspections" timestamp="1602142737606">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="621" y="235" width="732" height="644" key="#Inspections/64.27.1856.1053@64.27.1856.1053" timestamp="1602142737606" />
+    <state x="800" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1602200295436">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="800" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/64.27.1856.1053@64.27.1856.1053" timestamp="1602200295436" />
+    <state x="806" y="372" width="351" height="377" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602142706446">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="806" y="372" width="351" height="377" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1602142706446" />
+    <state x="725" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602209795000">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="725" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1602209795000" />
+    <state x="775" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602312929844">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="775" y="311" width="424" height="491" key="FileChooserDialogImpl/64.27.1856.1053/64.27.1856.1053@64.27.1856.1053" timestamp="1602312929844" />
+    <state x="775" y="311" width="424" height="491" key="FileChooserDialogImpl/64.27.1856.1053@64.27.1856.1053" timestamp="1602150961239" />
+    <state x="762" y="273" width="561" height="582" key="NewPhpClassDialog" timestamp="1602215522130">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="762" y="273" key="NewPhpClassDialog/64.27.1856.1053/64.27.1856.1053@64.27.1856.1053" timestamp="1602215522130" />
+    <state x="762" y="273" width="561" height="582" key="NewPhpClassDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1602211654786" />
+    <state x="787" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1602211818504">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="787" y="479" width="399" height="156" key="NewPhpFileDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1602211818504" />
+    <state x="481" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1602211744598">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="481" y="188" width="1022" height="737" key="SettingsEditor/64.27.1856.1053@64.27.1856.1053" timestamp="1602211744598" />
+    <state x="655" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1602146484993">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="655" y="259" width="672" height="678" key="search.everywhere.popup/64.27.1856.1053@64.27.1856.1053" timestamp="1602146484993" />
+  </component>
+</project>
